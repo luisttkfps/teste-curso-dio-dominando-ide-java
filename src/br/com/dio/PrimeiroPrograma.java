@@ -21,5 +21,3 @@ class Livro{
 	private String nomelivro;
 	private String npagina;
 }
-
-
